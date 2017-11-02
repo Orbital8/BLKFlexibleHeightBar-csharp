@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>O8.BLKFlexibleHeightBar</id>
+    <version>1.0.0-alpha</version>
+    <title>BLKFlexibleHeightBar Xamarin port</title>
+    <authors>Orbital8</authors>
+    <owners>orbital8</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/Orbital8/BLKFlexibleHeightBar-csharp</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Condensing header bars in Xamarin iOS</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>iOS Xamarin header bars</tags>
+  </metadata>
+</package>
